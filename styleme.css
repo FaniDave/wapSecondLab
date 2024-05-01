@@ -5,10 +5,6 @@
 }
 #the-header {
    opacity: 0.8;
-   position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000;
 }
 
 #ul-links {
@@ -58,10 +54,6 @@
 
 #the-experience, #the-education {
     margin-bottom: 1vw;
-}
-
-#sec-about-me {
-    margin-top: 5vw;
 }
 
 #html-checker-img, #css-checker-img {
